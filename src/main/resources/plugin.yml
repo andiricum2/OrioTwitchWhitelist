@@ -1,0 +1,12 @@
+name: OrioTwitchWhitelist
+version: 1.0
+main: com.orioland.TwitchWhitelist
+api-version: 1.16
+author: OrioLand
+description: Añade a la Whitelist los Jugadores según la cantidad de puntos del Canal de Twitch
+website: https://play.orioland.com
+
+commands:
+  whitelist:
+    description: Administra los usuarios permitidos
+    permission: whitelist.cmd
